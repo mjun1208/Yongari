@@ -9,4 +9,5 @@ https://github.com/mjun1208/Yongari/releases/tag/Yongari
 
 ## 게임 설명 / ゲーム説明 : 
 Direct X9을 사용한 드래곤 플라이트 모작 게임입니다.
+
 Direct X9を使用して制作した、「ドラゴンフライト」を模作したシューティングゲームです。
